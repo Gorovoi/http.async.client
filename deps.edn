@@ -1,0 +1,5 @@
+{:paths ["src/clj"]
+ :name "http.async.client"
+ :deps {org.clojure/clojure {:mvn/version "1.10.3"}
+        org.asynchttpclient/async-http-client {:mvn/version "2.12.3"}
+        org.clojure/tools.logging {:mvn/version "1.1.0"}}}
